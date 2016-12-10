@@ -23,13 +23,20 @@ Bachelor thesis: Implementation of Bae's implicit semi-recursive formulation for
 
 Final grade: 7.98/10, ranked among top 2% of students.
 
+#### Online courses
+
+* Economics of Money and Banking, Pt. 1 (Coursera, 2014)
+* Economics of Money and Banking, Pt. 2 (Coursera, 2014)
+* Machine Learning (Coursera, 2016)
+
 ## Experience
 
 Experience
 
 ## Skills
 
-Skills
+* Programming languages: C, C++, Python, R
+* Software: Matlab, Fluent, ICEM, Labview, SolidEdge
 
 ## Publications
 
