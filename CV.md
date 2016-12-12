@@ -8,7 +8,7 @@ permalink: /CV/
 #### MSc Aerospace Dynamics (Cranfield University, 2015-2016)
 Modules covered a variety of topics, covering control systems, aerodynamics, and computational fluid dynamics.
 
-Master Thesis: An improved drag prediction method for wedge fairings in hypersonic flow
+Master Thesis: An improved drag prediction method for wedge fairings in hypersonic flow (Development of two models for drag prediction: a physically realistic model, and a machine learning model trained on CFD data. Results were compared, showing an advantage of ML vs the physical model. This was due to nonlinearities present in the data that the physical model couldn't accurately capture)
 
 #### MSc Industrial Engineering (Technical University of Madrid, 2014-2015)
 Modules covered a variety of topics, including thermal engineering, fluid mechanics, project management, systems engineering, supply chain management, electronics, and vehicle engineering.
@@ -19,7 +19,7 @@ During this year I served as deputy course representative, and treasurer of the 
 (Mechanical Engineering option)
 Modules covered a variety of topics, including fluid mechanics, economics, mechanical engineering, calculus, algebra, numerical methods, material science, thermodynamics, systems dynamics, management, manufacturing,and computer aided engineering.
 
-Bachelor thesis: Implementation of Bae's implicit semi-recursive formulation for real time simulation of multibody systems
+Bachelor thesis: Implementation of Bae's implicit semi-recursive formulation for real time simulation of multibody systems (Research an existing formulation for MBS simulation and a numerical integrator to perform the calculations. Code then implemented in MATLAB, and validated against existing software)
 
 Final grade: 7.98/10, ranked among top 2% of students.
 
