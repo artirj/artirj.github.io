@@ -31,11 +31,11 @@ Final grade: 7.98/10, ranked among top 2% of students.
 
 ## Experience
 
-##### Graduate Engineer (London Taxi Company Ltd, 2016-Present)
+#### Graduate Engineer (London Taxi Company Ltd, 2016-Present)
 Graduate scheme consisting of a series of rotations in key business areas.
 First rotation in the Quality Systems Department, assisting internal auditing of every core process and preparation for external auditing.
 
-##### Research Intern (Technical University of Madrid, 2014-2015)
+#### Research Intern (Technical University of Madrid, 2014-2015)
 Intern at the Applied Mathematics Department, doing research on D.S. Bae's Generalized Recursive Formulation for multibody systems dynamic simulation.
 
 ## Skills
