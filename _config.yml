@@ -24,4 +24,4 @@ github_username:  artirj
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
