@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Testing HTML embedding"
+categories: test
+---
+In this post, I embed an HTML page from elsewhere.
+{% include test.html %}
+This is Jekyll again. 
