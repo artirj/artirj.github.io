@@ -22,3 +22,5 @@ url: "https://artirj.github.io" # the base hostname & protocol for your site
 twitter_username: ArtirKel
 github_username:  artirj
 
+
+theme: jekyll-theme-minimal
