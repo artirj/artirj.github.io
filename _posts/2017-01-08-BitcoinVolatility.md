@@ -7,9 +7,9 @@ categories: notebooks bitcoin
 
 Here I study whether Bitcoin's volatility has been decreasing. It is widely reported that it has been the case, and indeed if one looks at Eli Dourado's [btcVol.info](http://www.btcvol.info) it seems to be the case. But is it the case?
 
-[Here](https://llucpuigcodina.github.io/BTCEUR-Volatility/) there is a previous analysis by a friend of mine showing that using a very popular statistical test (Augmented Dickey-Fuller) to test whether a series is stationary, and the result is that the data is compatible with a stationary process. That is, the underlying distribution from which daily returns are drawn is constant across time.
+[Here](https://llucpuigcodina.github.io/BTCEUR-Volatility/) there is a previous analysis by a friend of mine showing that using statistical test (Augmented Dickey-Fuller) to test whether a series is stationary, and the result is that the data is compatible with a stationary process. That is, the underlying distribution from which daily returns are drawn is constant across time.
 
-In what follows, I replicate his study, showing some limitations of ADF.
+In what follows, I try to replicate his study, showing some limitations of ADF.
 
 
 ```python
