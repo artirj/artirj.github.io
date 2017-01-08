@@ -94,7 +94,7 @@ _=data.plot(x="Date",y="Price")
 ```
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_4_0.png)
+![png]({{ site.baseurl }}/images/bitvol/output_4_0.png)
 
 
 
@@ -104,7 +104,7 @@ _=data.plot(title="Bitcoin daily change (%)",x='Date',y='Daily change')
 ```
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_5_0.png)
+![png]({{ site.baseurl }}/images/bitvol/output_5_0.png)
 
 
 
@@ -123,7 +123,7 @@ _=data.plot(y='Daily rolling 60',x='Date',ax=ax)
 
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_6_1.png)
+![png]({{ site.baseurl }}/images/bitvol/output_6_1.png)
 
 
 
@@ -209,7 +209,7 @@ model.summary()
 
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_7_1.png)
+![png]({{ site.baseurl }}/images/bitvol/output_7_1.png)
 
 
 Perhaps it would be better to use a nonlinear function, something like an exponential with a decreasing term like  $f(x,a,b,c)=ae^{-xb}+c$ . For optimisation purposes, I noralise the series first.
@@ -277,11 +277,11 @@ plt.legend()
 
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_9_2.png)
+![png]({{ site.baseurl }}/images/bitvol/output_9_2.png)
 
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_9_3.png)
+![png]({{ site.baseurl }}/images/bitvol/output_9_3.png)
 
 
 I would say that the fit looks right (It seems to be exponentially decreasing, and it seems that variance is decreasing) especially if we remove some of the 'big' events like bubbles, etc.
@@ -312,7 +312,7 @@ adfuller(np.linspace(0,10, 100)+np.random.randn(100)/10)
 
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_12_1.png)
+![png]({{ site.baseurl }}/images/bitvol/output_12_1.png)
 
 
 Here there *is* a trend. So we tell the test that there is, and ask: does the trend change?
@@ -340,7 +340,7 @@ adfuller(np.linspace(0,10, 100)+np.random.randn(100)/10,regression='ct')
 
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_15_1.png)
+![png]({{ site.baseurl }}/images/bitvol/output_15_1.png)
 
 
 In the next example there *is* a trend that *changes*, but from a constant underlying function, a sin(x).
@@ -373,7 +373,7 @@ adfuller(var,regression='ct')
 
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_17_1.png)
+![png]({{ site.baseurl }}/images/bitvol/output_17_1.png)
 
 
 We can now try to see what would the test say if it saw the function we just fitted.
@@ -399,7 +399,7 @@ adfuller(func(X3,popt3[0],popt3[1],popt3[2])+np.random.rand(len(X3))/100)
 
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_19_1.png)
+![png]({{ site.baseurl }}/images/bitvol/output_19_1.png)
 
 
 So *even if* the variance were decreasing given a very clean equation, the test would still say that the process is stationary, so the test is not that much useful after all.
@@ -466,7 +466,7 @@ makeplot('Daily rolling 60',3)
 ```
 
 
-![png]({{ site.baseurl }}/images/grvsnr/output_26_0.png)
+![png]({{ site.baseurl }}/images/bitvol/output_26_0.png)
 
 
 # Conclusion
