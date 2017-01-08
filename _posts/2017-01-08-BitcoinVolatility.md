@@ -3,6 +3,7 @@ layout: post
 title:  "Bitcoin volatility analysis"
 categories: notebooks bitcoin
 ---
+{% include mathjax_support.html %}
 # Analysis of Bitcoin Volatility
 
 Here I study whether Bitcoin's volatility has been decreasing. It is widely reported that it has been the case, and indeed if one looks at Eli Dourado's [btcVol.info](http://www.btcvol.info) it seems to be the case. But is it the case?
