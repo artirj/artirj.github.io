@@ -70,16 +70,7 @@ sp.stats.mstats.normaltest(returns)
     0.0003905978881567397 0.013100444387213098
 
 
-    /home/artir/anaconda3/lib/python3.5/site-packages/statsmodels/nonparametric/kdetools.py:20: VisibleDeprecationWarning: using a non-integer number instead of an integer will result in an error in the future
-      y = X[:m/2+1] + np.r_[0,X[m/2+1:],0]*1j
-
-
-
-
-
     NormaltestResult(statistic=743.91394834138578, pvalue=2.8916026377143718e-162)
-
-
 
 
 ![png]({{ site.baseurl }}/images/assetvol/output_5_3.png)
