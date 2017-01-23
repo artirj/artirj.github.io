@@ -28,6 +28,7 @@ Final grade: 7.98/10, ranked among top 2% of students.
 * Economics of Money and Banking, Pt. 1 (Coursera, 2014)
 * Economics of Money and Banking, Pt. 2 (Coursera, 2014)
 * Machine Learning (Coursera, 2016)
+* Introduction to Data Science (Udacity, 2017)
 
 ## Experience
 
