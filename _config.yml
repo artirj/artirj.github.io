@@ -19,7 +19,6 @@ description: > # this means to ignore newlines until "baseurl:"
   José Luis Ricón's personal website
 baseurl:
 url: "https://artirj.github.io" # the base hostname & protocol for your site
-twitter_username: ArtirKel
 github_username:  artirj
 
 
