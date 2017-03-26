@@ -10,8 +10,8 @@ locale                   : "en-UK"
 title                    : "José Luis Ricón"
 title_separator          : "-"
 name                     : &name "Jose Luis"
-description              : &description "personal description"
-url                      : http://joseluisricon.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Engineer"
+url                      : http://artirj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "artirj/artirj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "José Luis Ricón"
   avatar           : "profile.png"
-  bio              : "Trust me, I am an engineer"
+  bio              : "Engineer"
   location         : "Coventry, UK"
   employer         : "LTC"
   googlescholar    : "https://scholar.google.com/citations?user=MlF4TgUAAAAJ&hl=es&oi=sra"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "artirj"
   google_plus      :
   keybase          :
   instagram        : 
