@@ -1,7 +1,9 @@
 ---
-layout: post
+date: 2017-01-19
 title:  "A study of volatility timing for different assets"
-categories: notebooks finance
+tags: 
+- notebooks 
+- finance
 ---
 # A study of volatility timing for different assets
 

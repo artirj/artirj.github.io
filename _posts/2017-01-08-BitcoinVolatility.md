@@ -1,7 +1,9 @@
 ---
-layout: post
+date: 2017-01-08
 title:  "Bitcoin volatility analysis"
-categories: notebooks bitcoin
+tags:
+- notebooks
+- bitcoin
 ---
 {% include mathjax_support.html %}
 # Analysis of Bitcoin Volatility
