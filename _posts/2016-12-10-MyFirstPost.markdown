@@ -1,7 +1,9 @@
 ---
-layout: post
 title:  "Hey, I'm writing posts!"
-categories: jekyll update
+tags:
+- jekyll
+- update
+date: 2016-12-10
 ---
 So this is the first post I write for my personal page.
 
