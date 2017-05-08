@@ -29,10 +29,13 @@ Final grade: 7.98/10, ranked among top 2% of students.
 * Economics of Money and Banking, Pt. 2 (Coursera, 2014)
 * Machine Learning (Coursera, 2016)
 * Introduction to Data Science (Udacity, 2016)
+* Practical Deep Learning for Coders Pt 1. (University of San Francisco, 2017)
 
 ## Experience
 
-#### Graduate Engineer (London Taxi Company Ltd, 2016-Present)
+#### Strategy Consultant - Data Science (Amey plc, 2017- May 2017)
+
+#### Graduate Engineer (London Taxi Company Ltd, September 2016-May 2017)
 Graduate scheme consisting of a series of rotations in key business areas.
 First rotation in the Quality Systems Department, assisting internal auditing of every core process and preparation for external auditing.
 
