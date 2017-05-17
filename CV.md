@@ -35,6 +35,8 @@ Final grade: 7.98/10, ranked among top 2% of students.
 
 #### Strategy Consultant - Data Science (Amey plc, 2017- May 2017)
 
+Development of a financial management application (dashboard) written in R (shiny) and mySQL
+
 #### Graduate Engineer (London Taxi Company Ltd, September 2016-May 2017)
 Graduate scheme consisting of a series of rotations in key business areas.
 First rotation in the Quality Systems Department, assisting internal auditing of every core process and preparation for external auditing.
